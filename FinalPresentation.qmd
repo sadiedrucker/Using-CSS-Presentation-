@@ -62,7 +62,7 @@ Now everything within the HTML `<body>` element is 20px.
   padding-bottom: 0.8rem;
 }
 
-/* Adjust dropdown items if you want them taller too */
+/* Adjust dropdown items to make them taller too */
 .navbar .dropdown-menu .dropdown-item {
   padding-top: 0.7rem;
   padding-bottom: 0.7rem;
@@ -74,7 +74,7 @@ Now everything within the HTML `<body>` element is 20px.
 ``` css
 /* Top-level navbar items */
 .navbar .nav-link {
-  font-size: 1.4\rem; 
+  font-size: 1.4\rem;
 }
 
 /* Dropdown menu items */
